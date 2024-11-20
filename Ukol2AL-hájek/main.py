@@ -9,4 +9,4 @@ def bubble_sort():
             print(pole)
     return pole
 
-    print(bubble_sort())
+print(bubble_sort())
